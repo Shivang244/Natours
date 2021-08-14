@@ -20,13 +20,13 @@ npm run dev
 
 ![Screenshot1](Screenshots/landing.JPG)
 
-![Screenshot2](Screenshots/Sign-up.JPG)
+![Screenshot2](Screenshots/Sign%20up.JPG)
 
-![Screenshot3](Screenshots/tour page 1.JPG)
+![Screenshot3](Screenshots/tour%20page%201.JPG)
 
-![Screenshot4](Screenshots/tour page 2.JPG)
+![Screenshot4](Screenshots/tour%20page%202.JPG)
 
-![Screenshot5](Screenshots/tour page 3.JPG)
+![Screenshot5](Screenshots/tour%20page%203.JPG)
 
 ![Screenshot6](Screenshots/booking.JPG)
 
