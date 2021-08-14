@@ -20,7 +20,7 @@ npm run dev
 
 ![Screenshot1](Screenshots/landing.JPG)
 
-![Screenshot2](Screenshots/Sign up.JPG)
+![Screenshot2](Screenshots/Sign-up.JPG)
 
 ![Screenshot3](Screenshots/tour page 1.JPG)
 
