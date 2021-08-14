@@ -16,3 +16,17 @@ Run the website:
 npm run dev
 ```
 
+## Screenshots
+
+![Screenshot1](landing.png)
+
+![Screenshot2](Sign up.jpg)
+
+![Screenshot3](tour page 1.png)
+
+![Screenshot4](tour page 2.png)
+
+![Screenshot5](tour page 3.png)
+
+![Screenshot6](booking.jpg)
+
